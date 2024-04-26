@@ -11,8 +11,8 @@
 ###
 
 <h5 align="left">- 💻 I'm currently a student<br><br>- 📚 I'm currently learning DSA in Python and exploring Android Development in Kotlin</h5>
+<br>
 
-###
 
 <h2 align="left">🛠 Language and tools</h2>
 
@@ -39,20 +39,18 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/sonal-shinde-3a4a32254" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="sonal.shinde0403@gmail.com" target="_blank">
+  </a> 
+  &nbsp;&nbsp;
+  <a href="mailto:sonal.shinde0403@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
