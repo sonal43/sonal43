@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Sonal 👋</h1>
+<h1 align="center">Hey there!! 👋</h1>
 
 ###
 
@@ -6,11 +6,7 @@
 
 ###
 
-<h4 align="left">I am  a third year Computer Engineering student exploring the realms of programming. <br>Enthusiastic about Python and web development, eager to delve deeper and contribute to open source projects!<br><br>Follow along for my coding journey! 🚀</h4>
-
-###
-
-<h5 align="left">- 💻 I'm currently a student<br><br>- 📚 I'm currently learning DSA in Python and exploring Android Development in Kotlin</h5>
+<h4 align="left">I am  a fourth year Computer Engineering student exploring the realms of programming. <br>Enthusiastic about Python and web development, eager to delve deeper and contribute to open source projects!<br><br>Follow along for my coding journey! 🚀</h4>
 
 ###
 
@@ -23,11 +19,17 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="25" />
